@@ -1,0 +1,5 @@
+[33mcommit ab9886926454fb5c444645d1a51fa1ccc99d97a6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Nandini Nautiyal <nandini@example.com>
+Date:   Sun Sep 7 12:39:47 2025 +0530
+
+    Initial commit
